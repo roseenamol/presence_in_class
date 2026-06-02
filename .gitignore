@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore large model weights and data files
+yolov8x-face.pt
+faces.index
+face_data.pkl
+labels.pkl
+
+# Ignore video files
+student_videos/
+window.mp4
